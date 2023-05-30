@@ -33,6 +33,8 @@ executable haskell-json
     , aeson
     , bytestring
     , text
+    , split
+    , directory
   default-language: Haskell2010
 
 -- test-suite haskell-json-test
